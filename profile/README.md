@@ -4,8 +4,6 @@
 
 CSS Unicorn is your gateway to mastering CSS. Whether you're just starting out or looking to polish your skills, we've got something for you. ✨🦄
 
-<br>
-
 ## CSS For Beginners - Start your journey to becoming a CSS unicorn
 
 Our flagship book, "CSS For Beginners," is designed to guide you through the fundamentals of CSS. With clear explanations and practical examples, you'll build a strong foundation that will prepare you for more advanced projects in the future.
@@ -19,8 +17,6 @@ Our flagship book, "CSS For Beginners," is designed to guide you through the fun
 - **Much More!**
 
 [Get Started with CSS For Beginners ↗](#) 
-
-<br>
 
 ## Upcoming Content
 
