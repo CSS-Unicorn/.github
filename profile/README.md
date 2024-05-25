@@ -1,4 +1,5 @@
-![github-cover](https://github.com/CSS-Unicorn/.github/assets/71933266/706f765d-a45b-4eaa-b846-de60c09ba31b)
+
+![banner-min](https://github.com/CSS-Unicorn/.github/assets/71933266/e1486bf8-e86e-4dae-872d-ca6567828dda)
 
 # Become a CSS Unicorn
 
