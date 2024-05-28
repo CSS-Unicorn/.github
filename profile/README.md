@@ -17,7 +17,7 @@ Our flagship book, "CSS For Beginners," is designed to guide you through the fun
 - **Best Practices:** Discover tips and tricks to write clean, efficient CSS.
 - **Much More!**
 
-[Get Started with CSS For Beginners ↗](https://www.mirayatechstore.com/products/css-for-beginners) 
+[Get Started with CSS For Beginners ↗](https://github.com/CSS-Unicorn/css-for-beginners) 
 
 ## Upcoming Content
 
